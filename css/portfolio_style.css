@@ -12,3 +12,19 @@ p {
 	color: #fff;
 }
 
+h5 {
+	color: #0099ff;
+}
+
+#contact {
+	color: #0099ff;
+	font-weight: 600;
+}
+
+#jumbo {
+	border-radius: 5px;	
+}
+
+.modal-body {
+	color: #fff;
+}
